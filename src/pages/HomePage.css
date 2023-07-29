@@ -1,0 +1,8 @@
+.verse {
+    color: white;
+    display: block;
+    margin: auto;       /* Center vertically */
+    text-align: center; /* Center horizontally */
+    line-height: 1.5;
+    padding-bottom: 500px;
+  }
